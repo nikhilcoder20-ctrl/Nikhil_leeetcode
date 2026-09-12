@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Array
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
