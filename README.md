@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
