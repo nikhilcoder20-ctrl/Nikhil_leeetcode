@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2833-furthest-point-from-origin) |
@@ -107,11 +108,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
