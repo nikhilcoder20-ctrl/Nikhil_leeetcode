@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -174,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
