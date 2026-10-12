@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0412-fizz-buzz](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0856-score-of-parentheses) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
