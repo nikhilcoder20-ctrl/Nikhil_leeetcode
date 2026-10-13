@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0496-next-greater-element-i) |
 | [1002-find-common-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
