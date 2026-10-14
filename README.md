@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0835-image-overlap) |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1002-find-common-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -217,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -246,8 +250,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
