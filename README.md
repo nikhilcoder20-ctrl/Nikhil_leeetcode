@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2833-furthest-point-from-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0338-counting-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
@@ -274,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -295,11 +301,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
