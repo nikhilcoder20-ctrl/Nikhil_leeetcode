@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
