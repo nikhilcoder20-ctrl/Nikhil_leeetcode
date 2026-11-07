@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1882-process-tasks-using-servers) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
