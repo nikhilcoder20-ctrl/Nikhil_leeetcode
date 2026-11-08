@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1002-find-common-characters) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2833-furthest-point-from-origin) |
 ## Stack
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0301-remove-invalid-parentheses) |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
