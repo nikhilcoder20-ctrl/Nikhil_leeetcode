@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## String Matching
 |  |
