@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nikhilcoder20-ctrl/Nikhil_leeetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
